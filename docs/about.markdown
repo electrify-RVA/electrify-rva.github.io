@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Electrify RVA is a group of volunteers committed to helping Richmonders realize the benefits of switching off fossil fuels. We run the Beyond Methane RVA group, whose primary focus is to help residents of the Richmond area understand the sometimes complex health, safety, climate and financial concerns that come with our dependence on methane (aka natural gas). A large part of this effort involves Richmond Gas Works — the city-owned utility seeking to overcome the downsides of its aging infrastructure and transition its energy systems into the 21st century. Beyond Methane RVA educates the public on all aspects of this complex process — from identifying local gas leaks to explaining home energy upgrades and alternative energy sources.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find the source code for this project on GitHub:
+[Site code](https://github.com/electrify-RVA/electrify-rva.github.io)
 
 You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[X][electrify-rva-twitter]
 
 
-[jekyll-organization]: https://github.com/jekyll
+[electrify-rva-twitter]: https://twitter.com/ElectrifyThe804

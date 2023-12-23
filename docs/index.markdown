@@ -2,9 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 title: Home
 ---
-Testing testing
-
-Does this show up?
+## Electrify RVA
+A working group to help Richmonders realize the benefits of clean, efficient, electric machines.

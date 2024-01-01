@@ -4,4 +4,4 @@
 
 layout: home
 ---
-ElectrifyRVA test home page
+Please click around and check out our site.

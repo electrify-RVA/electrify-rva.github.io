@@ -80,8 +80,19 @@ Why are costs increasing so dramatically? Let's take a look.
 
 ## Pipeline miles
 
+As of 2022, Richmond Gas Works maintains **1,974 miles of gas mains**. This is so large that if all the gas mains were laid end to end they would stretch past Salt Lake City. 
+
 {% include charts/pipeline_miles.html %}
 
+These aren't the only types of pipes. There are also services pipes, the pipes running from the mains in the street to the meters. These services pipes stretch about another 1,200 miles, bringing the total to over 3,200 miles--a distance reaching all the way to Peru. We don't know the exact distance of these pipes because the PHMSA forms report the number of services and the average distance of each service, which appears to be an estimate not an exact distance. This average distance was listed as 100 feet until 2009, which changed to 61 feet in 2010 and then 62 feet in 2012, where it has stayed. This accounts for the step down in services miles starting in 2010.
+
+{% include charts/total_miles_by_type.html %}
+
+This is a lot of infrastructure for the Department of Public Utilities to maintain.
+
+* Pipeline and service miles by decade
+* By material
+* By material (color-coded by LPP)
 
 [utility_rates]: https://www.rva.gov/public-utilities/utility-rates
 [VA citygate price]: assets/va_citygate.png

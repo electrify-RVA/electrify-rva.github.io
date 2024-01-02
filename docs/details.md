@@ -8,7 +8,7 @@ permalink: /details
 **How did we make all these charts anyway**
 
 ## Energy Information Agency (EIA)
-The EIA is an organization under the Department of Energy that tracks information about energy use in the US, including prices, amount sold, power plants, utilities, and a lot more. The primary data from the EIA used here is from [Form 176][EIA 176]. EIA 176 is a form completed by gas utilities that tracks the number of customers, revenue, and amount of gas sold broken down by industry (residential, commercial, industrial, electric, and vehicle fuel). This is information provided directly by RGW to the EIA.
+The EIA is an organization under the Department of Energy that tracks information about energy use in the US, including prices, amount sold, power plants, utilities, and a lot more. The primary data from the EIA used here is from [Form 176][EIA 176]. EIA 176 is a form completed by gas utilities that tracks the number of customers, revenue, and amount of gas sold broken down by industry (residential, commercial, industrial, electric, and vehicle fuel). This is information provided directly by RGW to the EIA. Data are available back to 1997 and are released annually in October; the next release will be in October 2024 for 2023 data.
 
 We also get the [Citygate pricing](#citygate-price) from EIA.
 

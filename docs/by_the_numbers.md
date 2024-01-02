@@ -14,7 +14,7 @@ Richmond Gas Works (RGW) is a local distribution gas utility wholly owned and op
 
 Typically, a gas utility will sell gas to customers (pretty obvious) and the price includes the cost of gas itself as well as the cost of all the pipes to move the gas around. Large customers (typically industrial) can pay to have the utility transport gas that they purchased elsewhere, paying to use the pipelines and not the cost of gas itself. This is a small portion of what RGW does, so let's focus on gas sales. 
 
-We can see that **Residential** customers make up a much smaller fraction of gas sales than customers, and **Industrial** users now make up almost half of gas sold.
+We can see that the vast majority of customers are **Residential**, but residential customers account for less than half of all sales, and **Industrial** users now make up almost half of gas sold.
 
 {% include charts/sales_types.html %}
 
@@ -89,6 +89,22 @@ These aren't the only types of pipes. There are also services pipes, the pipes r
 {% include charts/total_miles_by_type.html %}
 
 This is a lot of infrastructure for the Department of Public Utilities to maintain.
+
+{% include charts/material_mains_miles.html %}
+
+And let's remember there are also miles of services pipes to maintain.
+
+{% include charts/material_services_miles.html %}
+
+DPU has been very busy replacing old leak prone pipes, leaving us with 196 miles of mains remaining.
+
+{% include charts/material_leakprone_mains_miles.html %}
+
+And 118 miles of services.
+
+{% include charts/material_leakprone_services_miles.html %}
+
+We also have 
 
 * Pipeline and service miles by decade
 * By material

@@ -57,7 +57,7 @@ We can see how the fuel costs have changed over time by looking back at the typi
 
 ![Virginia Citygate price][VA citygate price]
 
-If we use this Citygate price as a proxy for fuel costs, we can use it to estimate how much of the revenue that RGW received from residential customers went towards fuel and how much went towards system costs and administration. We find that **system costs have tripled** since 2000, rising from $22M to $63M in 2022. 
+If we use this [Citygate](details/#citygate-price) price as a proxy for fuel costs, we can use it to estimate how much of the revenue that RGW received from residential customers went towards fuel and how much went towards system costs and administration. We find that **system costs have tripled** since 2000, rising from $22M to $63M in 2022. 
 
 {% include charts/system_and_fuel_costs.html %}
 
@@ -96,13 +96,31 @@ And let's remember there are also miles of services pipes to maintain.
 
 {% include charts/material_services_miles.html %}
 
-DPU has been very busy replacing old leak prone pipes, leaving us with 196 miles of mains remaining.
+Here's what it looks like all together.
+
+{% include charts/material_mains_services_miles.html %}
+
+The material of the pipes is important because the Pipeline and Hazardous Materials Safety Administration ([PHMSA][phmsa]), part of the US Department of Transportation and RGW's regulator, mandates that utilities develop and excecute a plan to replace [leak prone pipes](details/#leak-prone-pipes).
+
+DPU has been very busy replacing old leak prone pipes, leaving us with 196 miles of mains remaining. 
 
 {% include charts/material_leakprone_mains_miles.html %}
 
 And 118 miles of services.
 
 {% include charts/material_leakprone_services_miles.html %}
+
+That's **314 miles of leak prone pipes** still needing to be replaced.
+
+{% include charts/material_leakprone_mains_services_miles.html %}
+
+The leak prone pipes are a small and decreasing proportion of the system, but putting pipes in the ground is a costly business, and _replacing_ pipes is net more costly than _new_ pipes. This is because when laying new pipes we're adding new customers who can offset some of the costs of the new pipes; but when replacing pipes, we're not adding new customers or revenue, just more costs. New pipes are often put in places that haven't been developed yet so there is less risk of disrupting electrical, water, or sewer service, whereas with replacement you have to worry about all those other services whenever digging.
+
+`How costly is putting pipes in the ground?` A study of the Philadelphia municipally owned gas utility found costs to be increasing at a rate of 8.5% per year, a rate that quickly makes any infrastructure work unsustainable. The cost is already over $2 million per mile, which for Richmond would add **$628 million** in additional costs that RGW would need to get from ratepayers. Studies in New York and elsewhere have found costs to be higher still, with costs reaching $6-10 million per mile, well over **$1 billion** if applied to Richmond. RGW's own projections put the cost of pipe replacement at **$760 million**. 
+
+This is a tremendous amount of money that would dramatically increase costs for ratepayers.
+
+
 
 We also have 
 
@@ -112,3 +130,4 @@ We also have
 
 [utility_rates]: https://www.rva.gov/public-utilities/utility-rates
 [VA citygate price]: assets/va_citygate.png
+[phmsa]: details/#pipeline-and-hazardous-materials-administration-phmsa

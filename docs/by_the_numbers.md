@@ -90,9 +90,23 @@ These aren't the only types of pipes. There are also services pipes, the pipes r
 
 This is a lot of infrastructure for the Department of Public Utilities to maintain.
 
+And a lot of old records to be aware of: we can see how old the pipes are in the system. We can see there are **275 miles of mains that are at least 50 years old** (pre 1960s or Unknown), some much older.
+
+{% include charts/decades_mains_miles.html %}
+
+We can also see how many services there are by the decade they were installed. There are **8,881 services at least 50 years old**, stretching **104 miles** (see next chart).
+
+{% include charts/decades_services_number.html %}
+
+From which we can calculate the number of miles of services by their age.
+
+{% include charts/decades_services_miles.html %}
+
+In addition to age, we can also see the materials the pipes are made of. 
+
 {% include charts/material_mains_miles.html %}
 
-And let's remember there are also miles of services pipes to maintain.
+And let's remember there are also miles of services pipes to maintain. 
 
 {% include charts/material_services_miles.html %}
 

@@ -4,6 +4,8 @@ title: Leaks
 permalink: /leaks
 ---
 
+# Leaks
+
 Here's the thing about gas: it leaks. No matter what you do, it's going to leak. You can replace pipes, you can repair them, you can use the strongest materials, and all the engineering best practices but it's still going to leak.
 
 Richmond currently has over 900 leaks, most of them taking several months to get fixed. 

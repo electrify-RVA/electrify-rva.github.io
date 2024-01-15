@@ -6,7 +6,6 @@ permalink: /bythenumbers
 Let's examine Richmond Gas Works by the numbers.
 
 
-
 ## Customers and sales
 Richmond Gas Works (RGW) is a local distribution gas utility wholly owned and operated by the city of Richmond, VA. There are five types of customers that a local distribution gas utility such as Richmond Gas Works can have: residential (households), commercial (businesses), industrial (manufacturers), electric (electric utilities who use methane gas to create electricity), and vehicle fuel (for large vehicles that run on methane gas, such as waste trucks or city busses). As you can see *most* of the customers for RGW are residential. Go ahead and zoom in or click on **Residential** and **Commercial** to deselect those groups and you can see that there are a handful of Industrial (355 in 2022) and Vehicle Fuel (4 in 2022) customers that are hard to see otherwise. (Click again to have those types reappear.)
 

@@ -4,6 +4,8 @@ title: Climate
 permalink: /climate
 ---
 
+# Climate
+
 In September 2021 the Richmond City Council unanimously declared a [Climate and Ecological Emergency][climate emergency], committing the city to proactively address the city's greenhouse gas pollution and remedy historical inequities that disproportionately put black and low income communities at greater risk.
 
 Richmond Gas Works, a utility dedicated to the distribution of methane, an incredibly potent greehouse gas pollutant, should play a major role in reducing the city's emissions. Unfortunately, its behavior has not changed and the city's associated climate pollution continues to grow.

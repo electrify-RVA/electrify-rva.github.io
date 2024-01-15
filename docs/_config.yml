@@ -28,7 +28,7 @@ url: "https://electrify-rva.github.io" # the base hostname & protocol for your s
 domain: electrify-rva.github.io
 twitter_username: ElectrifyThe804
 github_username:  electrify-RVA
-
+host: 0.0.0.0
 # Build settings
 theme: minima
 plugins:

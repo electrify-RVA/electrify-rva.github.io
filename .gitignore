@@ -1,3 +1,4 @@
 .DS_Store
 .mapbox_token
 permit.db*
+.idea

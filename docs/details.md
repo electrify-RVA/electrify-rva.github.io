@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sources & Details
+title: Sources 
 permalink: /details
 ---
 

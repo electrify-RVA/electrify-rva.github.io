@@ -24,5 +24,5 @@ to protect residents and small businesses.
 
 It's time to move beyond methane. 
 
-[Explosive]: ./gas-explosions.md
+[Explosive]: ./news
 [pipeline]: ./pipelines.md

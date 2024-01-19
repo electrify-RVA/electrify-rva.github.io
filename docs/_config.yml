@@ -34,6 +34,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - about-us.md
+  - leaks.md
+  - by_the_numbers.md
+  - climate.md
+  - details.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RGW By the Numbers
+title: Gas & Your Money
 permalink: /bythenumbers
 ---
 Let's examine Richmond Gas Works by the numbers.

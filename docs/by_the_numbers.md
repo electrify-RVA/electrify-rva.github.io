@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Finances
-permalink: /bythenumbers
+title: Deep dive
+permalink: /deepdive
 ---
 Let's examine Richmond Gas Works by the numbers.
 

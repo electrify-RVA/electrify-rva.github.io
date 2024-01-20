@@ -44,7 +44,7 @@ When a customer pays their gas bill they are paying for three things:
 
 You can see this broken out on the Department of Public Utilities [Utility Rates][utility_rates] page, screenshotted below (from December 2023). The admin charge is the Monthly Service Charge. The cost of gas itself is the Purchased Gas Cost Charge, which changes monthly based on current market conditions. The cost of the infrastructure is the **Volume Charge**, which has been increasing over time.
 
-![RGW Utility Rates](assets/rgw_gas_rates.png)
+![RGW Utility Rates][RGW rates]
 
 As we can see from the sample bill the majority of the costs aren't for the gas itself, it's for the infrastructure ($45.78 of an $87.34 bill)—the thousands of miles of pipes running throughout the city and surrounding suburbs.
 
@@ -64,20 +64,24 @@ System costs also make up an increasing proportion of revenue, meaning each doll
 
 {% include charts/system_and_fuel_costs_normalized.html %}
 
-As we saw previously, RGW has been consistently adding customers--spreading those system costs across an increasing number of ratepayers. Despite the larger customer base, average costs per customer have continued to rise, reaching **$573 per customer** in 2022. That is, every year the typical customer pay hundreds of dollars just for the pipes in the ground, and steadily increasing. This is over double what it was in 2000, putting an increasing burden on RGW ratepayers, many of whom struggle to pay their energy bills.
+As we saw previously, RGW has been consistently adding customers--spreading those system costs across an increasing number of ratepayers. Despite the larger customer base, average costs per customer have continued to rise, reaching **$573 per customer** in 2022. That is, every year the typical customer pay hundreds of dollars just for the pipes in the ground, and this amount is steadily increasing. This is over double what it was in 2000, putting an increasing burden on RGW ratepayers, many of whom struggle to pay their energy bills.
 
 {% include charts/residential_net_revenue_real_per_customer.html %}
 
-Why are costs increasing so dramatically? Let's take a look.
+Why are costs increasing so dramatically? There are a couple of drivers of long-term cost increases, for both the infrastructure and the cost of gas itself, none of which look for Richmond Gas Works or people with gas bills. The infrastructure costs are especially worrying because the Department of Public Utilities takes out loans to pay for these costs and then pays those loans back over decades.
 
-## Drivers of costs
+First, is the cost of replacing the aging pipelines running through the city and the suburbs.
 
-* Replacement adds costs without increasing revenue
-* Replacement is increasingly costly
-* RGW has been extending into the suburbs, requiring more miles of mains for each household
-* Compressor station in Goochland: perhaps further expansion and huge costs
+Second, is system expansion, such as RGW's expansion outside the city into Short Pump and other suburbs, or the building of a new Gate Station way out in Goochland. Such expansion adds millions into RGW's books which it then makes back through higher utility rates.
 
-## Pipeline miles
+Third, is the increasing exposure of methane users to international markets. Until recently US consumers of methane were insulated from international pressures due to a lack of export or import infrastructure that would allow the gas to cross our borders. But this has changed in recent years, and accelerated since Putin's war in Ukraine, such that [the US is now the largest exporter][LNG] of Liquified Natural Gas (LNG) in the world. This means people are now competing on international markets for gas to heat their homes.
+
+And fourth, is the trend towards lower consumption of gas by individual households. This comes from better building codes making houses more efficient or from [electrification][PEP], which is when people swap their furnaces, gas water heaters, or other fossil fuel machines for clean, efficient, electric alternatives, like heat pumps. When people use less gas, the costs are paid by others still on the system.
+
+Let's explore each.
+
+
+### Richmond's aging pipeline infrastructure
 
 As of 2022, Richmond Gas Works maintains **1,974 miles of gas mains**. This is so large that if all the gas mains were laid end to end they would stretch past Salt Lake City. 
 
@@ -131,16 +135,103 @@ The leak prone pipes are a small and decreasing proportion of the system, but pu
 
 `How costly is putting pipes in the ground?` A study of the Philadelphia municipally owned gas utility found costs to be increasing at a rate of 8.5% per year, a rate that quickly makes any infrastructure work unsustainable. The cost is already over $2 million per mile, which for Richmond would add **$628 million** in additional costs that RGW would need to get from ratepayers. Studies in New York and elsewhere have found costs to be higher still, with costs reaching $6-10 million per mile, well over **$1 billion** if applied to Richmond. RGW's own projections put the cost of pipe replacement at **$760 million**. 
 
-This is a tremendous amount of money that would dramatically increase costs for ratepayers.
+This is a tremendous amount of money that will dramatically increase costs for ratepayers now and for decades to come. 
+
+### System expansion
+
+Second, is system expansion, such as RGW's expansion outside the city into Short Pump and other suburbs, or the building of a new Gate Station way out in Goochland. Such expansion adds millions into RGW's books which it then makes back through higher utility rates.
+
+Richmond Gas Works has history dating back until 1856, and all that time up until about 2008, it was largely confined to the city's boundaries. 
+
+{% include charts/permits_residential_new_timeline.html %}
+
+Since 2008, RGW has increasingly focused on serving customers outside the city, stretching all the way northwest to Wyndham and southeast to Varina. The costs of running the pipes and hooking up new customers all the way out there aren't paid by the new customers, it's a cost that's shared across everyone on the system. The idea is that these new customers will eventually pay back the costs of expansion due to the decades of future gas use those new customers will consume and pay for on their gas bills.
+
+It's not just new customers behind system expansion, RGW is also paying millions of dollars for a huge new gate station way out in Goochland. This money also comes from households paying their utility bills, a cost they will be paying back for decades. 
+
+What makes all of this expansion a bad deal is that it's taking money out of customer pockets now in the hope that these new infrastructure costs will bring in revenue in the 2030s, 2040s, and 2050s. Unfortunately for RGW, and all of us, these pipelines and the fossil fuel machines in people's homes are major sources of pollution that we've already committed to phasing out. It doesn't make sense to keep expanding a system that won't get used and won't pay itself back.
+
+### Exposure to international markets
+
+It's not just infrastructure costs that are set to increase. Fuel costs are likely to go up as well. This is because of the recent construction of LNG export terminals that allow gas in the US to reach international markets. This is bad news for US households because we have historically enjoyed gas rates well below what people in other countries pay. In the chart below from the [Statistical Review of World Energy][statistical review of world energy], the US is the pink line. We can see gas prices in the US have been well below prices in other countries. This gap will shrink as US producers find higher prices elsewhere, driving up costs for domestic consumers.
+
+![International methane prices](assets/international_natural_gas_prices.jpeg)
+
+These higher prices are widely anticipated by people in the gas industry as exemplified in this chart by [Nat Bullard][nat bullard] with data from the Federal Reserve Bank of Dallas. 
+
+![Experts expect higher natural gas prices](assets/expected_gas_price_increases.jpg)
+
+Competing on international markets won't just drive up average prices, it will leave US consumers at risk of price shocks, such as disruptions to gas supplies across the world from pipelines shutting down or wars. A high gas bill is bad enough, but an unexpected high gas bill is much worse.
+
+### Reduced methane use
+
+Finally, and related to the increased infrastruture costs, is the general trend towards lower gas use by households. One cause of lower gas use is efficiency: people in old houses insulating and air sealing their homes or new builds meeting stricter building codes. The expansion into newer neighborhoods, such as in Short Pump, could be one factor in lower average gas use due to the greater efficiency of these new builds.
+
+Another factor in lower use is switching away from fossil fuels altogether and replacing them with clean, efficient, electric alternatives. This means swapping your furnace for a heat pump, your gas water heater for a heat pump water heater, your gas stove for induction, and your gas dryer for an electric or heat pump dryer. All these appliances are more efficient than the gas versions, with the bonus of not putting pollution in your home. These modern electric appliances are so efficient that they'll usually lower your overall energy bills, sometimes by hundreds of dollars a year.
+
+Each time someone [electrifies][PEP] an appliance in their home they reduce their gas use or leave the gas system entirely. RGW still has to pay back the costs of its past infrastructure investments, which means they have to increase gas rates a little bit to make up for the lost revenue.
 
 
+### Utility death spiral
 
-We also have 
+All of which leads to a scary phrase: `utility death spiral`. This is when a utility gets caught in a vicious circle of increasing rates that cause people to consume less, leading to higher rates and lower usage, leading to higher rates... You get the point.
 
-* Pipeline and service miles by decade
-* By material
-* By material (color-coded by LPP)
+Going back to the utility rates we saw earlier, we saw that infrastructure costs are paid by the **Volume charge**. 
+![RGW Utility Rates][RGW rates]
+
+It works like this:
+
+```Infastructure costs = Volume charge x Amount of gas sold```
+
+And fuel costs are directly passed on to customers.
+
+```Purchased gas cost = Cost of gas to RGW```
+
+Your total bill is the sum of this plus administrative charges.
+
+```Total bill = Infrastructure costs + Purchased gas cost + Admin```
+
+The total **Infrastructure cost** is paid back over the **Amount of gas sold**. As the amount of gas sold decreases, which it has for the last 20+ years, the rate must go up to offset the lower gas sales and pay for investments that have already been made. 
+
+```Infastructure costs = ⬆ Volume charge x ⬇ Amount of gas sold```
+
+The economic drivers we just outlined (aging infrastructure, system expansion, exposure to international markets, and reduced methane use) all point towards higher energy bills for ratepayers.
+
+Our aging pipelines and system expansion will increase infrastructure costs, which will have to be met with higher utility rates.
+
+```⬆⬆ Infastructure costs = ⬆⬆ Volume charge x Amount of gas sold```
+
+The exposure to international markets will lead to higher prices which will be directly paid by ratepayers.
+
+```⬆ Purchased gas cost = ⬆ Cost of gas to RGW```
+
+Each rate increase makes additional insulation, air sealing, or switching to electric appliances look that much better than keeping a high and increasing gas bill. People will upgrade their homes, reducing their gas bill or leaving the system entirely.
+
+```Infastructure costs = ⬆⬆ Volume charge x ⬇⬇ Amount of gas sold```
+
+This is a vicious circle or rising rates and lower usage that the utility will be unable to stop.
+
+```Infastructure costs = ⬆⬆⬆ Volume charge x ⬇⬇⬇ Amount of gas sold```
+
+Put it all together we have increased infrastructure costs met with lower usage, which will drive rates to unsustainable levels.
+
+```⬆⬆ Infastructure costs = ⬆⬆⬆⬆ Volume charge x ⬇⬇ Amount of gas sold```
+
+Customer bills will thus be driven up by both increased infrastructure costs and increased fuel costs.
+
+```⬆⬆⬆⬆⬆ Total bill = Infrastructure costs ⬆⬆⬆⬆ + Purchased gas cost ⬆ + Admin```
+
+## What this means
+
+Richmond Gas Works is in a precarious position. We can choose to invest hundreds of millions in infrastructure to nowhere, money that will drive up energy bills and increase pollution, or we can choose to invest in helping families transition to clean electric appliances and save on their energy bills.
+
+It's time to move Beyond Methane.
 
 [utility_rates]: https://www.rva.gov/public-utilities/utility-rates
 [VA citygate price]: assets/va_citygate.png
 [phmsa]: details/#pipeline-and-hazardous-materials-administration-phmsa
+[LNG]: https://www.reuters.com/business/energy/us-was-top-lng-exporter-2023-hit-record-levels-2024-01-02/
+[statistical review of world energy]: https://www.energyinst.org/statistical-review
+[nat bullard]: https://www.nathanielbullard.com/presentations
+[PEP]: https://homes.rewiringamerica.org/
+[RGW rates]: assets/rgw_gas_rates.png

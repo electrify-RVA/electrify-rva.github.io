@@ -10,7 +10,7 @@ Richmond Gas Works’ leaks are exposing us and our families to injury or even d
 
 {% include video-embeds/home-explosion-news.html %}
 
-Explosions are caused by gas leaks, of which Richmond has nearly a thousand. We have thousands of miles of pipes, and not enough staff to maintain them without leaking. As Richmond continues [expanding its gas infrastructure](./cost.md), the problem becomes more severe. The simple truth is that gas leaks, and leaked gas can ignite or explode. Richmond City Council and the Mayor should prioritize retiring our gas utility, and along with it the risk of leaks and explosions.
+Explosions are caused by gas leaks, of which Richmond has nearly a thousand. We have thousands of miles of pipes, and not enough staff to maintain them without leaking. As Richmond continues [expanding its gas infrastructure](./cost.md), the problem becomes more severe. The simple truth is that it's impossible to operate a gas utility without the risk of explosion. Richmond City Council and the Mayor should prioritize retiring our gas utility, and along with it the risk of leaks and explosions.
 
 ## Gas is poisoning the air in your home and workplace
 

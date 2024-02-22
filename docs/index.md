@@ -1,23 +1,20 @@
 ---
 layout: page
-title: We found a toxic gas leak in your neighborhood
+title: There’s a toxic gas leak in your neighborhood. Richmond has yet to act.
 ---
 
-And Richmond is failing to act despite the possibility of explosion. Many leaks are located near homes, schools, 
-businesses, and parks. Richmond Gas Works, owned a run by the city, maintains a network of severely leaking gas pipes 
-under neighborhoods throughout the city and counties. Some pipes are 100 years old. Hundreds of miles of 
-pipes are decayed and leaking, and nearly a thousand gas leaks require fixes by Richmond's Department of Public 
-Utilities. Dozens of these leaks are liable to ignite or explode. 
+Richmond is failing to act on thousands of toxic gas leaks despite the strong possibility of harm to our health, safety, and financial well being. Many chemical leaks are located near our homes, our schools, businesses, and parks. The only way to address this pollution problem is to hold city leadership accountable.
+
+### Why does Richmond have a toxic gas leak problem?
+
+Richmond Gas Works is owned and run by the city and maintains a large network of 100 year old, constantly leaking methane (natural gas) pipes under neighborhoods throughout the city and counties. Hundreds of miles of pipes are decaying with nearly a thousand gas leaks that require repair or replacement by Richmond’s Department of Public Utilities. Leaks have the potential to ignite or explode, jeopardizing the safety of surrounding residents.
+
+The below interactive map shows the leaks Beyond Methane RVA knows about and their severity.
 
 {% include leak-map.html %}
-\
-Unfortunately leaks just scratch the surface of Richmond's methane problem. They are not only able to 
-[explode][Explosive], but they also waste gas which customers pay for. The expansive network of leaky pipes 
-in Richmond could potentially cost [several hundred million dollars][pipeline] to replace, which customers will pay for. 
-The tough financial position Richmond's gas utility is in requires that we think outside the box to protect residents 
-and small businesses. 
 
-Fortnately, Richmond doesn't have to keep doing this. We can move beyond methane. 
+### Pollution leaks are both dangerous and expensive for utility customers. 
 
-[Explosive]: ./news
-[pipeline]: ./pipelines.md
+Unfortunately leaks just scratch the surface of Richmond’s methane problem. Not only could every leak lead to an explosion, they also waste gas which customers pay for. The expansive network of leaky pipes in Richmond will cost [several hundred million](./by_the_numbers.md) dollars to replace – all of which customers will pay for through their monthly utility bills. As long as Richmond relies on methane gas, the health and financial wellbeing of residents is at risk.
+
+There is a solution to Richmond’s gas leak crisis. We must move beyond methane.

@@ -35,10 +35,11 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about-us.md
   - cost.md
+  - safety-and-pollution.md
   - news.md
   - deep_dive.md
+  - about-us.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

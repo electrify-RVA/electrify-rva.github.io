@@ -36,9 +36,7 @@ plugins:
 
 header_pages:
   - about-us.md
-  - leaks.md
-  - by_the_numbers.md
-  - climate.md
+  - cost.md
   - news.md
   - details.md
 

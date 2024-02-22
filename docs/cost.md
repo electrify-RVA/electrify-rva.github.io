@@ -26,6 +26,8 @@ Richmond Gas Works is unable to sustain itself without endless debt and signific
 
 Richmond Gas Works’ disregard for the financial struggle of existing customers is ongoing. [$111 million](https://www.alacrastore.com/s-and-p-credit-research/Richmond-VA-Series-2023C-Public-Utility-Bonds-Assigned-AA-Rating-3042533) in new debt was issued in August, 2023 in part to expand gas infrastructure out into Goochland County – a sparsely populated area with relatively few prospective customers compared to the City. It’s unlikely that these customers will purchase enough gas to pay back the debt used to connect them to gas, so your rates will rise to make up the difference. As Richmond Gas Works continues to waver under its several hundred million dollar debt burden, rates and customer frustration will continue to rise while Richmond risks entering a [utility death spiral.](https://www.greentechmedia.com/articles/read/this-is-what-the-utility-death-spiral-looks-like)
 
+{% include video-embeds/pipeline-subsidy.html %}
+
 ## Leaky Pipes Are Costing Everyone Millions To Replace
 
 Richmond is making customers pay to replace nearly 200 miles of leaky and dangerous gas pipes. This costs several hundred million dollars and does not improve harmful gas leaks. Since the money spent on new pipes doesn’t acquire new customers, everyone's gas bill gets more expensive.

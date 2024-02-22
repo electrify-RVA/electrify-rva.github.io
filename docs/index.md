@@ -15,6 +15,6 @@ The below interactive map shows the leaks Beyond Methane RVA knows about and the
 
 ### Pollution leaks are both dangerous and expensive for utility customers. 
 
-Unfortunately leaks just scratch the surface of Richmond’s methane problem. Not only could every leak lead to an explosion, they also waste gas which customers pay for. The expansive network of leaky pipes in Richmond will cost [several hundred million](./by_the_numbers.md) dollars to replace – all of which customers will pay for through their monthly utility bills. As long as Richmond relies on methane gas, the health and financial wellbeing of residents is at risk.
+Unfortunately leaks just scratch the surface of Richmond’s methane problem. Not only could every leak lead to an explosion, they also waste gas which customers pay for. The expansive network of leaky pipes in Richmond will cost [several hundred million](./cost.md) dollars to replace – all of which customers will pay for through their monthly utility bills. As long as Richmond relies on methane gas, the health and financial wellbeing of residents is at risk.
 
 There is a solution to Richmond’s gas leak crisis. We must move beyond methane.

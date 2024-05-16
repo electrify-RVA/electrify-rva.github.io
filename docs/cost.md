@@ -6,17 +6,17 @@ permalink: /cost
 
 # Cost
 
-Your gas bill is rising with no end in sight. Choosing between heating your home and putting food on your table is a real concern for some in Richmond. Residents are currently struggling to repay [$60 million in unpaid bills](http://rvagov.prod.acquia-sites.com/sites/default/files/2023-03/2023-09%20DPU%20Billing%20and%20Collections%20audit%202.28.23.pdf), and thousands of customers require special repayment plans to remain afloat. Richmond families cannot afford further inaction from the City Council and the Mayor. 
+Your gas bill is rising with no end in sight. Choosing between heating your home and putting food on your table is a real concern for some in Richmond. Residents are currently struggling to repay [$60 million in unpaid bills](http://rvagov.prod.acquia-sites.com/sites/default/files/2023-03/2023-09%20DPU%20Billing%20and%20Collections%20audit%202.28.23.pdf), and thousands of customers require special repayment plans to remain afloat. Richmond families cannot afford further inaction from the City Council and the Mayor.
 
 {% include charts/residential_sales_per_customer_real.html %}
 
 ## Richmond Gas Works Is Driving Up Your Utility Bill
 
-Richmond Gas Works relies on a failing business model, and it’s making your gas bill more expensive. Now that customers are embracing cheaper and cleaner options, gas is no longer a household staple and Richmond is forcing utility customers to pick up the tab.  Richmond Gas Works’ operations are fueled by a growing pile of debt.
+Richmond Gas Works relies on a failing business model, and it’s making your gas bill more expensive. Now that customers are embracing cheaper and cleaner options, gas is no longer a household staple and Richmond is forcing utility customers to pick up the tab. Richmond Gas Works’ operations are fueled by a growing pile of debt.
 
 New debt is the only way to fund expansion of their business. When it's unable to rely on more debt, Richmond Gas Works won’t be able to pay its bills just like a [Ponzi scheme](https://en.wikipedia.org/wiki/Ponzi_scheme). Instead, it will turn to customers for a financial bail out.
 
-Customers are forced to pay for each new hookup that Richmond Gas Works allows. The below interactive map shows each new hookup in the Richmond area since 1993. 
+Customers are forced to pay for each new hookup that Richmond Gas Works allows. The below interactive map shows each new hookup in the Richmond area since 1993.
 
 {% include charts/permits_residential_new_timeline.html %}
 
@@ -24,9 +24,11 @@ Richmond Gas Works is unable to sustain itself without endless debt and signific
 
 {% include charts/residential_volume_per_customer.html %}
 
-Richmond Gas Works’ disregard for the financial struggle of existing customers is ongoing. [$111 million](https://www.alacrastore.com/s-and-p-credit-research/Richmond-VA-Series-2023C-Public-Utility-Bonds-Assigned-AA-Rating-3042533) in new debt was issued in August, 2023 in part to expand gas infrastructure out into Goochland County – a sparsely populated area with relatively few prospective customers compared to the City. It’s unlikely that these customers will purchase enough gas to pay back the debt used to connect them to gas, so your rates will rise to make up the difference. As Richmond Gas Works continues to waver under its several hundred million dollar debt burden, rates and customer frustration will continue to rise while Richmond risks entering a [utility death spiral.](https://www.greentechmedia.com/articles/read/this-is-what-the-utility-death-spiral-looks-like)
+Richmond Gas Works is still disregarding the financial struggle of existing customers. [$111 million](https://www.alacrastore.com/s-and-p-credit-research/Richmond-VA-Series-2023C-Public-Utility-Bonds-Assigned-AA-Rating-3042533) in new debt was issued in August 2023 in part to expand gas infrastructure out into Goochland County. It’s unlikely that customers will purchase enough gas to pay back this debt, so your rates will rise to make up the difference.
 
 {% include video-embeds/pipeline-subsidy.html %}
+\
+As Richmond Gas Works continues to waver under its several hundred million dollar debt burden, rates and customer frustration will continue to rise while Richmond risks entering a [utility death spiral.](https://www.greentechmedia.com/articles/read/this-is-what-the-utility-death-spiral-looks-like)
 
 ## Leaky Pipes Are Costing Everyone Millions To Replace
 

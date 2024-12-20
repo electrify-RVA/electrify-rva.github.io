@@ -21,8 +21,6 @@ There is a solution to Richmond’s gas leak crisis. We must move beyond methane
 
 {% include video-embeds/pipe-replacement.html %}
 
-\
-
 ### Get Involved
 
 Beyond Methane RVA is a group of volunteers passionate about the health of our environment and Richmond City. Interested in getting involved? [Email us](mailto:info@beyondmethanerva.org) and we'll respond as quickly as possible. 

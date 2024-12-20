@@ -10,6 +10,14 @@ Your gas bill is rising with no end in sight. Choosing between heating your home
 
 {% include charts/residential_sales_per_customer_real.html %}
 
+## What do I do? 
+
+Upgrading your home to electric appliances is one way to escape the relentless gas price hikes. Many incentives exist to make these upgrades more affordable, and you can find out how much financial aid you're eligible for to help you upgrade with our calculator.
+
+{% include rewiring-america/calculator.html %}
+
+<br/>
+
 ## Richmond Gas Works Is Driving Up Your Utility Bill
 
 Richmond Gas Works relies on a failing business model, and it’s making your gas bill more expensive. Now that customers are embracing cheaper and cleaner options, gas is no longer a household staple and Richmond is forcing utility customers to pick up the tab. Richmond Gas Works’ operations are fueled by a growing pile of debt.
